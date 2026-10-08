@@ -1,0 +1,6 @@
+{
+  "name": "بوابة المدرسة الإلكترونية والإدارة المدرسية",
+  "description": "موقع مدرسي متكامل مع لوحة تحكم إدارية وبوابة السجلات الإدارية والمدرسية ونظام مصادقة وتخزين سحابي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
